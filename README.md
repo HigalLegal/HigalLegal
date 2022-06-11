@@ -1,5 +1,5 @@
 # Olá! Seja bem vindo e fique à vontade. 👋
-Me chamo Higor, moro no Ceará e apaixonado por esse universo da programação! Uso a linguagem Java para fazer projetos na parte do back-end, bem como o ecossistema Spring. Mas também faço alguns projetos utilizando o Javascript. Atualmente, estudando microsserviços e padrões de projetos.
+Me chamo Higor, moro no Ceará e apaixonado por esse universo da programação! Uso a linguagem Java para fazer projetos na parte do back-end, bem como o ecossistema Spring. Atualmente, trabalho na GFT.
 
 ![Alt Text](https://c.tenor.com/5SUdQj8_Fw4AAAAC/asd.gif)
 
