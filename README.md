@@ -2,7 +2,7 @@
 
 Eae meus camaradas, tudo bem com vocês? 🙃
 
-Meu nome é Higor, tenho 22 anos e moro no interior do Ceará. Curso Sistemas de Informações no IFCE, e atualmente estou em busca de uma vaga para desenvolvedor. Quanto a experiência, trabalhei de maio à setembro de 2022 no grupo GFT como Starter. Atualmente trabalho na Touch Health.
+Meu nome é Higor, tenho 22 anos e moro no interior do Ceará. Curso Sistemas de Informações no IFCE. Quanto a experiência, trabalhei de maio à setembro de 2022 no grupo GFT como Starter. Atualmente trabalho na Touch Health.
 
 Essas são minhas stacks e tecnologias com qual eu trabalho e estudo:
 
