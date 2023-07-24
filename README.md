@@ -45,7 +45,7 @@ Banco de dados não-relacionais:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="25" height="25" /> MongoDB
 <br> <br>
 
-![Alt Text](https://c.tenor.com/5SUdQj8_Fw4AAAAC/asd.gif)
+<img src="https://i.imgur.com/qyJNJNs.png"/>
 
 ### Contato:
 
