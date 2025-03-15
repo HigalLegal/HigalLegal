@@ -19,9 +19,9 @@ Front-end:
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="25" height="25" /> Angular
 <br>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg" width="25" height="25" /> React
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="25" height="25" /> React
 <br>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nextdotjs.svg" width="25" height="25" /> Next.js
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nextdotjs.svg" width="25" height="25" style="filter: invert(1);" /> Next.js
 <br>
 
 Back-end:
