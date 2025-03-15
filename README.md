@@ -19,6 +19,10 @@ Front-end:
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="25" height="25" /> Angular
 <br>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg" width="25" height="25" /> React
+<br>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nextdotjs.svg" width="25" height="25" /> Next.js
+<br>
 
 Back-end:
 <br>
