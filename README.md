@@ -21,7 +21,7 @@ Front-end:
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="25" height="25" /> React
 <br>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nextdotjs.svg" width="25" height="25" style="filter: invert(1);" /> Next.js
+<img src="https://img.icons8.com/?size=100&id=r2OarXWQc7B6&format=png&color=FFFFFF" width="25" height="25" /> Next.js
 <br>
 
 Back-end:
