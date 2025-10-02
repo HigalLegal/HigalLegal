@@ -2,7 +2,7 @@
 
 Eae meus camaradas, tudo bem com vocês? 🙃
 
-Meu nome é Higor, tenho 23 anos e moro no interior do Ceará. Curso Sistemas de Informações no IFCE.
+Meu nome é Higor, tenho 25 anos e moro no interior do Ceará. Curso Sistemas de Informações no IFCE.
 Essas são minhas stacks e tecnologias com qual eu trabalho ou estudo:
 
 Front-end:
@@ -47,8 +47,6 @@ Banco de dados não-relacionais:
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="25" height="25" /> MongoDB
 <br> <br>
-
-<img src="https://i.imgur.com/qyJNJNs.png"/>
 
 ### Contato:
 
