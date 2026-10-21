@@ -2,7 +2,7 @@
 
 Eae meus camaradas, tudo bem com vocês? 🙃
 
-Meu nome é Higor, tenho 25 anos e moro no interior do Ceará. Curso Sistemas de Informações no IFCE.
+Meu nome é Higor, tenho 26 anos e moro no interior do Ceará. Curso Sistemas de Informações no IFCE.
 Essas são minhas stacks e tecnologias com qual eu trabalho ou estudo:
 
 Front-end:
@@ -52,4 +52,4 @@ Banco de dados não-relacionais:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/higor-morais-de-lima-952a62213/)](https://www.linkedin.com/in/higor-morais-de-lima-952a62213/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1670741587)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588999118919)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588999653860)
